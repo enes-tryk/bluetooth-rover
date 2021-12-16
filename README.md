@@ -1,5 +1,5 @@
 # bluetooth-rover
-Simpler take on a bluetooth arduino rover using the Dabble library.
+Simpler take on a bluetooth arduino rover using the [Dabble](https://www.arduino.cc/reference/en/libraries/dabble/) library.
 
 This rover uses the following components: L298N, HC-06, ARDUINO UNO, 2 DC MOTORS, BUZZER
 
